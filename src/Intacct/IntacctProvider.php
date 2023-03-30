@@ -1,6 +1,6 @@
 <?php
 
-namespace Intacct\Providers;
+namespace Intacct;
 
 use Illuminate\Support\ServiceProvider;
 
